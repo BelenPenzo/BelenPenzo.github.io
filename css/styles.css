@@ -487,7 +487,7 @@ mark,
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
+  margin-right: 0.2rem;
 }
 
 .initialism {
@@ -10180,7 +10180,7 @@ header.masthead h1 {
 }
 
 .dev-icons {
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #f4623a;
 }
 
